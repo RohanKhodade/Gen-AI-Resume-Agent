@@ -156,7 +156,7 @@ with tab2:
 
 #     with col2:
 #         st.markdown("""
-#         **Name**: Shreya Dhurde  
+#         **Name**: Rohan Khodade
 #         **Role**: AI Engineer
 #         **Location**: Pune, India  
 #         **Specialties**: Generative AI,AI Agents, LLM Apps  
