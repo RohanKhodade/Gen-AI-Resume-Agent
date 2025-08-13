@@ -1,4 +1,4 @@
-# ResumeAgent-GIGA 💼🤖
+# ResumeAgent + Image analysis agent 💼🤖
 
 ResumeAgent-GIGA is an AI-powered resume analyzer built using **Python**, **Streamlit**, and **Google Gemini API**. This intelligent assistant helps you align your resume with a given job description by highlighting skill gaps, suggesting improvements, and enabling Q&A-style feedback.
 
@@ -63,7 +63,7 @@ GOOGLE_API_KEY="YOUR_API_KEY_HERE"
 Start the app by running:
 
 ```bash
-streamlit run app.py
+streamlit run imgamz.py
 ```
 
 A browser window will open with the ResumeAgent-GIGA interface.
